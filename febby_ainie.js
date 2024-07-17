@@ -6,8 +6,8 @@
 // @author       Your Name
 // @match        *://*/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/username/repo/main/auto_sequence_actions.js
-// @downloadURL  https://raw.githubusercontent.com/username/repo/main/auto_sequence_actions.js
+// @updateURL    https://raw.githubusercontent.com/dnlinkxx/Dnlinkxx/main/febby_ainie.js
+// @downloadURL  https://raw.githubusercontent.com/dnlinkxx/Dnlinkxx/main/febby_ainie.js
 // ==/UserScript==
 
 (function() {
